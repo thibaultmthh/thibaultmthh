@@ -38,7 +38,7 @@ Hey! I'm a freelance fullstack developer passionate about React, Web3, and build
 
 - 🌐 **Website:** [thibault.sh](https://thibault.sh)
 - 🐦 **Projects:** [thibault.sh/projects](https://thibault.sh/projects)
-- 🛠️ **Tools:** [thibault.sh/tools](https://thibault.sh/tools)
+- 🛠️ **Blog:** [thibault.sh/blog](https://thibault.sh/blog)
 
 ---
 
