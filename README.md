@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👨‍💻 Thibault Mathian
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-thibault.sh-blue)](https://thibault.sh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thibault-mathian/)
+
+Hey! I'm a freelance fullstack developer passionate about React, Web3, and building cool stuff 🚀
+
+## 🛠️ Current Stack
+
+```javascript
+{
+  "frontend": ["React", "Next.js", "TypeScript", "Tailwind"],
+  "backend": ["Node.js", "Express", "NestJS", "Django"],
+  "web3": ["Ethereum", "Smart Contracts", "Web3.js"],
+  "tools": ["Git", "Docker", "AWS"]
+}
+```
+
+## 🏗️ What I'm Building
+
+- 🎮 **[Kboom](https://kboom.gg)** - Helping esports clubs engage with their fans
+- 🎁 **[Elevora](https://elevora.com)** - Viral waitlists & giveaways platform
+- 🔧 **[Dev Tools](https://thibault.sh/tools)** - Free utilities for developers
+- 💰 **[Tornado.fun](https://tornado.fun)** - Token creation on Blast blockchain
+
+## 🏆 Recent Wins
+
+- 🥇 1st place at ETHGlobal Bangkok 2024 with [Tontine.money](https://tontine.money)
+- 📈 Built & scaled [Parakeet](https://thibault.sh/blog/parakeet) during college
+- 🛍️ Developed [Choicyful](https://apps.shopify.com) - A Shopify variant customizer
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thibaultmthh&show_icons=true&theme=dracula)
+
+## 💡 Fun Facts
+
+- 🏆 Won my first hackathon in Bangkok
+- 🚀 Started my first SaaS at 18
+- 🌏 Building from France
+- 💻 Love creating developer tools
+
+## 📫 Let's Connect!
+
+- 🌐 **Website:** [thibault.sh](https://thibault.sh)
+- 🐦 **Projects:** [thibault.sh/projects](https://thibault.sh/projects)
+- 🛠️ **Tools:** [thibault.sh/tools](https://thibault.sh/tools)
+
+---
+
+<p align="center">
+  <i>💡 Open to interesting collaborations and Web3 projects!</i>
+</p>
 
 <!--
-**thibaultmthh/thibaultmthh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Quick Links:
+- 🚀 Portfolio: https://thibault.sh
+- 🛠️ Dev Tools: https://thibault.sh/tools
+- 📝 Blog: https://thibault.sh/blog
 -->
