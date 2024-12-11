@@ -21,17 +21,11 @@ Hey! I'm a freelance fullstack developer passionate about React, Web3, and build
 - 🎮 **[Kboom](https://kboom.gg)** - Helping esports clubs engage with their fans
 - 🎁 **[Elevora](https://elevora.com)** - Viral waitlists & giveaways platform
 - 🔧 **[Dev Tools](https://thibault.sh/tools)** - Free utilities for developers
-- 💰 **[Tornado.fun](https://tornado.fun)** - Token creation on Blast blockchain
 
 ## 🏆 Recent Wins
 
 - 🥇 1st place at ETHGlobal Bangkok 2024 with [Tontine.money](https://tontine.money)
 - 📈 Built & scaled [Parakeet](https://thibault.sh/blog/parakeet) during college
-- 🛍️ Developed [Choicyful](https://apps.shopify.com) - A Shopify variant customizer
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thibaultmthh&show_icons=true&theme=dracula)
 
 ## 💡 Fun Facts
 
